@@ -1,10 +1,10 @@
 # Financial Times - Europe’s fastest-growing companies
 
-Europe’s fastest-growing companies [report](https://www.ft.com/content/691390ca-53d9-11ea-90ad-25e377c0ee1f) lists the European companies that achieved the highest compound annual growth rate in revenue between 2015 and 2018.
+Europe’s fastest-growing companies [report](https://www.ft.com/content/8b37a92b-15e6-4b9c-8427-315a8b5f4332) lists the European companies that achieved the highest compound annual growth rate in revenue between 2016 and 2019.
 
 I was curious to explore better some aspects of this reports, like the possible correlation between growth and employees number, or industrial categories that have grown more in my country.
 
-Python notebook with my analysis is available [here](/EuropesFastestGrowingCompanies2020.ipynb).
+Python notebook with my analysis is available [here for 2020 version](/EuropesFastestGrowingCompanies2020.ipynb) and [here for 2021 version](/EuropesFastestGrowingCompanies2021.ipynb) .
 
 ![Number of italian companies by category](/italianCompaniesByCategory.png)
 
