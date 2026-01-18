@@ -10,7 +10,7 @@ Python notebook with my analysis is available here:
 - [2020](https://github.com/jacopom/FT-Europe-s-Fastest-Growing-Companies-Analysis/blob/master/EuropesFastestGrowingCompanies2020.ipynb)
 - [2021](https://github.com/jacopom/FT-Europe-s-Fastest-Growing-Companies-Analysis/blob/master/EuropesFastestGrowingCompanies2021.ipynb)
 - [2024](https://github.com/jacopom/FT-Europe-s-Fastest-Growing-Companies-Analysis/blob/master/EuropesFastestGrowingCompanies2024.ipynb)
-- [2025](https://github.com/jacopom/FT-Europe-s-Fastest-Growing-Companies-Analysis/blob/master/EuropesFastestGrowingCompanies2025.ipynb) ✅
+- [2025](https://github.com/jacopom/FT-Europe-s-Fastest-Growing-Companies-Analysis/blob/master/EuropesFastestGrowingCompanies2025.ipynb)
 
 ## 2025 Key Findings
 
